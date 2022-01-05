@@ -1,0 +1,11 @@
+- id: 2
+  name: Teddy Bear
+  status: ok
+  status_updated: 2021-01-01
+  toy_id: 7
+- id: 3
+  name: octopus
+  status: ok
+  status_updated: 2021-01-05
+  toy_id: 43
+

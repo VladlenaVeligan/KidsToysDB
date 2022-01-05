@@ -1,0 +1,6 @@
+- id: 1
+  issue_description: need repair
+  toy_id: 1
+- id: 2
+  issue_description: boat is broken
+  toy_id: 1
